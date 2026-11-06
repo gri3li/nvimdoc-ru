@@ -44,7 +44,7 @@ vim.opt.runtimepath:append(vim.fn.expand("~/src/nvimdoc-ru"))
 ## Что переведено
 
 <!-- files:begin -->
-Справка Nvim 0.12.2: переведено **4 из 135** файлов.
+Справка Nvim 0.12.2: переведено **5 из 135** файлов.
 
 <details><summary><b>Об Nvim</b> — 1 из 11</summary>
 
@@ -77,13 +77,13 @@ vim.opt.runtimepath:append(vim.fn.expand("~/src/nvimdoc-ru"))
 
 </details>
 
-<details><summary><b>Руководство пользователя</b> — 2 из 32</summary>
+<details><summary><b>Руководство пользователя</b> — 3 из 32</summary>
 
 | Файл | Тема | Статус |
 |---|---|---|
 | `usr_toc.txt` | Оглавление руководства | ✅ переведён |
 | `usr_01.txt` | О руководствах | ✅ переведён |
-| `usr_02.txt` | Первые шаги в Vim | — |
+| `usr_02.txt` | Первые шаги в Vim | ✅ переведён |
 | `usr_03.txt` | Перемещение по тексту | — |
 | `usr_04.txt` | Небольшие изменения | — |
 | `usr_05.txt` | Ваши настройки | — |
