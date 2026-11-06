@@ -1,0 +1,6 @@
+Copyright (c) 2026 Mikhail Gerasimov
+
+Перевод основан на документации Vim и Neovim и распространяется на тех же
+условиях, что и оригинал: части из Vim — по лицензии Vim (:help license),
+части Neovim — по Apache License 2.0 (https://github.com/neovim/neovim/blob/master/LICENSE.txt).
+Код плагина — по Apache License 2.0.
