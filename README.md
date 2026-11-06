@@ -44,13 +44,13 @@ vim.opt.runtimepath:append(vim.fn.expand("~/src/nvimdoc-ru"))
 ## Что переведено
 
 <!-- files:begin -->
-Справка Nvim 0.12.2: переведено **1 из 135** файлов.
+Справка Nvim 0.12.2: переведено **2 из 135** файлов.
 
-<details><summary><b>Об Nvim</b> — 0 из 11</summary>
+<details><summary><b>Об Nvim</b> — 1 из 11</summary>
 
 | Файл | Тема | Статус |
 |---|---|---|
-| `news.txt` | Новое с прошлого выпуска | — |
+| `news.txt` | Новое с прошлого выпуска | ✅ переведён |
 | `news-0.11.txt` | Новое в 0.11 | — |
 | `news-0.10.txt` | Новое в 0.10 | — |
 | `news-0.9.txt` | Новое в 0.9 | — |
